@@ -58,10 +58,6 @@ qtconsole==5.0.3
 QtPy==1.9.0
 regex==2021.3.17
 scikit-learn==0.24.1
-scipy==1.6.1
-seaborn==0.11.1
-Send2Trash==1.5.0
-six==1.15.0
 sklearn==0.0
 terminado==0.9.3
 testpath==0.4.4
