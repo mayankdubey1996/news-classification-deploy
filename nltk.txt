@@ -1,6 +1,5 @@
-pipenv run python -m nltk.downloader punkt
-pipenv run python -m nltk.downloader wordnet
-pipenv run python -m nltk.downloader stopwords
-pipenv run python -m nltk.downloader WordNetLemmatizer
-pipenv run python -m nltk.downloader pros_cons
-pipenv run python -m nltk.downloader reuters
+wordnet
+pros_cons
+reuters
+punkt
+stopwords
